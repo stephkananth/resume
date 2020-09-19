@@ -14,12 +14,12 @@ github: https://github.com/stephkananth/
 ## Work Experience
 
 ## Education
-Carnegie Mellon University
-Degree: Bachelor of Science in Information Systems
-College: Dietrich College of Humanities and Social Sciences
-Dates: August 28, 2016 to May 17, 2020
-QPA: 3.70 / 4.00
-Awards: Dean's List, University Honors, Senior Leadership Recognition Award
+- Carnegie Mellon University
+- Degree: Bachelor of Science in Information Systems
+- College: Dietrich College of Humanities and Social Sciences
+- Dates: August 28, 2016 to May 17, 2020
+- QPA: 3.70 / 4.00
+- Awards: Dean's List, University Honors, Senior Leadership Recognition Award
 
 ## Projects
 
