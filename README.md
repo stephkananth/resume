@@ -12,9 +12,94 @@ linkedin: https://www.linkedin.com/in/stephkananth/
 github: https://github.com/stephkananth/
 
 ## Work Experience
+- Company: Capital One
+- Title: Associate Software Engineer
+- Line of Business: Enterprise Products & Platforms Technology
+- Dates: August 17, 2020 to present
+- Involvements: Coders, CMU iOS Partnership (Co-lead), WIT
+- Notable Accomplishments: CSSE Associate, CSSE Professional, CSSE Mobile (iOS)
+
+- Company: Expii / NOVID
+- Title:
+- Line of Business:
+- Dates:
+- Involvements:
+- Notable Accomplishments:
+
+- Company: DICK's Sporting Goods
+- Title:
+- Line of Business:
+- Dates:
+- Involvements:
+- Notable Accomplishments:
+
+- Company: Southwest Airlines
+- Title:
+- Line of Business:
+- Dates:
+- Involvements:
+- Notable Accomplishments:
+
+- Company: BASE Sports
+- Title:
+- Line of Business:
+- Dates:
+- Involvements:
+- Notable Accomplishments:
+
+- Company: Cornerstone Financial Management
+- Title:
+- Line of Business:
+- Dates:
+- Involvements:
+- Notable Accomplishments:
+
+- Company: Federal Home Loan Bank of Boston
+- Title:
+- Line of Business:
+- Dates:
+- Involvements:
+- Notable Accomplishments:
+
+- Company: New Covenant School
+- Title:
+- Line of Business:
+- Dates:
+- Involvements:
+- Notable Accomplishments:
+
+### Teaching Assistant Experience 
+
+- Company:
+- Title: 67-272 Head TA
+- Line of Business:
+- Dates:
+- Involvements:
+- Notable Accomplishments:
+
+- Company:
+- Title: 67-442 Head TA
+- Line of Business:
+- Dates:
+- Involvements:
+- Notable Accomplishments:
+
+- Company:
+- Title: 67-272 TA
+- Line of Business:
+- Dates:
+- Involvements:
+- Notable Accomplishments:
+
+- Company:
+- Title: 15-121 TA
+- Line of Business:
+- Dates:
+- Involvements:
+- Notable Accomplishments:
 
 ## Education
-- Carnegie Mellon University
+- University: Carnegie Mellon University
 - Degree: Bachelor of Science in Information Systems
 - College: Dietrich College of Humanities and Social Sciences
 - Dates: August 28, 2016 to May 17, 2020
