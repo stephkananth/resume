@@ -18,49 +18,49 @@ github: https://github.com/stephkananth/
 - Dates: August 17, 2020 to present
 - Involvements: Coders, CMU iOS Partnership (Co-lead), WIT
 - Notable Accomplishments: CSSE Associate, CSSE Professional, CSSE Mobile (iOS)
-
+---
 - Company: Expii / NOVID
 - Title:
 - Line of Business:
 - Dates:
 - Involvements:
 - Notable Accomplishments:
-
+---
 - Company: DICK's Sporting Goods
 - Title:
 - Line of Business:
 - Dates:
 - Involvements:
 - Notable Accomplishments:
-
+---
 - Company: Southwest Airlines
 - Title:
 - Line of Business:
 - Dates:
 - Involvements:
 - Notable Accomplishments:
-
+---
 - Company: BASE Sports
 - Title:
 - Line of Business:
 - Dates:
 - Involvements:
 - Notable Accomplishments:
-
+---
 - Company: Cornerstone Financial Management
 - Title:
 - Line of Business:
 - Dates:
 - Involvements:
 - Notable Accomplishments:
-
+---
 - Company: Federal Home Loan Bank of Boston
 - Title:
 - Line of Business:
 - Dates:
 - Involvements:
 - Notable Accomplishments:
-
+---
 - Company: New Covenant School
 - Title:
 - Line of Business:
@@ -76,21 +76,21 @@ github: https://github.com/stephkananth/
 - Dates:
 - Involvements:
 - Notable Accomplishments:
-
+---
 - Company:
 - Title: 67-442 Head TA
 - Line of Business:
 - Dates:
 - Involvements:
 - Notable Accomplishments:
-
+---
 - Company:
 - Title: 67-272 TA
 - Line of Business:
 - Dates:
 - Involvements:
 - Notable Accomplishments:
-
+---
 - Company:
 - Title: 15-121 TA
 - Line of Business:
