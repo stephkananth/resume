@@ -1,173 +1,71 @@
-# Stephanie K. Ananth
+# Stephanie Ananth
+**iOS Engineer**  
+Arlington, VA  
+[steph.ananth@gmail.com](mailto:steph.ananth@gmail.com)  
+[linkedin.com/in/stephkananth](https://www.linkedin.com/in/stephkananth)
 
-## Contact
-stephkananth@gmail.com | 617-938-9310
-
-facebook: https://www.facebook.com/stephkananth/
-
-instagram: https://www.instagram.com/stephkananth/
-
-linkedin: https://www.linkedin.com/in/stephkananth/
-
-github: https://github.com/stephkananth/
-
-## Work Experience
-- Company: Capital One
-- Title: Associate Software Engineer
-- Line of Business: Enterprise Products & Platforms Technology
-- Dates: August 17, 2020 to present
-- Involvements: Coders, CMU iOS Partnership (Co-lead), WIT
-- Notable Accomplishments: CSSE Associate, CSSE Professional, CSSE Mobile (iOS)
 ---
-- Company: Expii / NOVID
-- Title:
-- Line of Business:
-- Dates:
-- Involvements:
-- Notable Accomplishments:
----
-- Company: DICK's Sporting Goods
-- Title:
-- Line of Business:
-- Dates:
-- Involvements:
-- Notable Accomplishments:
----
-- Company: Southwest Airlines
-- Title:
-- Line of Business:
-- Dates:
-- Involvements:
-- Notable Accomplishments:
----
-- Company: BASE Sports
-- Title:
-- Line of Business:
-- Dates:
-- Involvements:
-- Notable Accomplishments:
----
-- Company: Cornerstone Financial Management
-- Title:
-- Line of Business:
-- Dates:
-- Involvements:
-- Notable Accomplishments:
----
-- Company: Federal Home Loan Bank of Boston
-- Title:
-- Line of Business:
-- Dates:
-- Involvements:
-- Notable Accomplishments:
----
-- Company: New Covenant School
-- Title:
-- Line of Business:
-- Dates:
-- Involvements:
-- Notable Accomplishments:
-
-### Teaching Assistant Experience 
-
-- Company:
-- Title: 67-272 Head TA
-- Line of Business:
-- Dates:
-- Involvements:
-- Notable Accomplishments:
----
-- Company:
-- Title: 67-442 Head TA
-- Line of Business:
-- Dates:
-- Involvements:
-- Notable Accomplishments:
----
-- Company:
-- Title: 67-272 TA
-- Line of Business:
-- Dates:
-- Involvements:
-- Notable Accomplishments:
----
-- Company:
-- Title: 15-121 TA
-- Line of Business:
-- Dates:
-- Involvements:
-- Notable Accomplishments:
 
 ## Education
-- University: Carnegie Mellon University
-- Degree: Bachelor of Science in Information Systems
-- College: Dietrich College of Humanities and Social Sciences
-- Dates: August 28, 2016 to May 17, 2020
-- QPA: 3.70 / 4.00
-- Awards: Dean's List, University Honors, Senior Leadership Recognition Award
 
-## Projects
+**Carnegie Mellon University**  
+*B.S. in Information Systems*  
+August 2016 – May 2020
 
-## Coursework
+---
 
-### Fall 2016
-- 15-110: Principles of Computing
-- 21-122: Integration & Approximation
-- 67-100: Information Systems Freshman Workshop
-- 76-101: Interpretation & Argument
-- 79-104: Global Histories
-- 99-101: Computing @ Carnegie Mellon
+## Experience
 
-### Spring 2017
-- 15-112: Fundamentals of Programming & Computer Science
-- 36-202: Statistical Methods
-- 67-250: Information Systems Milieux
-- 76-185: Freshman Seminar in Racism
-- 79-305: Moneyball Nation (Data in American Life)
+**Capital One**  
+*Software Engineer, iOS Platform Team*  
+July 2021 – Present
+- Migrated asynchronous networking from third-party dependencies to native Swift concurrency, enhancing reliability and performance.
+- Led Swift 6 migration efforts across the codebase; provided training and documentation for cross-team adoption.
+- Refactored the flagship app to ensure thread safety across shared resources.
+- Developed reusable SwiftUI components with UIKit interoperability to expedite feature development.
 
-### Fall 2017
-- 16-121: Introduction to Data Structures
-- 67-262: Database Design & Development
-- 67-344: Organizational Intelligence in the Information Age
-- 69-129: Rape Agression Defense Systems
-- 88-341: Organizational Communications
+*Associate Software Engineer, Mobile Feature Team*  
+August 2020 – July 2021
+- Designed and launched a cross-platform feature for unified document access, reaching millions of users.
+- Managed Android networking layer and UI testing suite; integrated with multiple backend APIs.
+- Delivered complete iOS and Android implementations from inception to production.
 
-### Spring 2018
-- 16-264: Humanoids
-- 67-202: Softer Side of Software
-- 67-272: Application Design & Development
-- 67-364: Practical Data Science
-- 69-102: Weight Training
-- 69-165: Cycling Core
+**NOVID**  
+*iOS Engineer*  
+April – October 2020
+- Co-developed and released a privacy-first contact tracing app featured in major press outlets.
+- Implemented robust Core Data architecture and networking layer; led UI refactoring and testing strategies.
+- Established a CI/CD pipeline with automated testing, code linting, and continuous delivery.
+- Explored Core Audio, AVFoundation, and Core Bluetooth to support proximity detection.
 
-### Fall 2018
-- 05-392: Interaction Design Overview
-- 67-309: Information Assurance & Security
-- 67-327: Web Application Security
-- 67-442: iOS Engineering
-- 69-155: Cardio Fitness & Sculpt
-- 70-160: Graphic Media Management
+**Carnegie Mellon University**  
+*Independent Study (iOS Engineering Capstone)*  
+January – May 2020
+- Rewrote curriculum labs from UIKit to SwiftUI.
 
-### Spring 2019
-- 67-306: Management in Computer Information Systems
-- 67-315: Web Accessibility
-- 67-373: IS Consulting Project
-- 67-390: Independent Study in iOS
-- 69-110: Personal Fitness
+*Head Teaching Assistant (iOS Capstone Course)*  
+August – December 2019
+- Mentored students on app architecture and Swift best practices; conducted office hours and technical reviews.
 
-### Fall 2019
-- 05-391: Designing Human-Centered Software
-- 67-324: Accelerating Innovation & Entrepreneurship
-- 76-270: Writing for the Professions
-- 88-120: Reason, Passion, & Cognition
-- 88-275: Bubbles
+**DICK’S Sporting Goods**  
+*Software Engineering Intern*  
+May – August 2019
+- Developed an internal iOS app supporting the "Buy Online, Pick Up In Store" initiative.
+- Designed and implemented a MySQL database and backend API with Spring Boot.
+- The app was later integrated into the company’s flagship production application.
 
-### Spring 2020
-- 67-391: Independent Study in SwiftUI
-- 67-476: Innovation in Healthcare Information Systems
-- 70-340: Business Communications
-- 88-302: Behavioral Decision Making
+---
 
 ## Skills
 
-## Volunteer Experience
+**iOS Development:**  
+Swift, SwiftUI, UIKit, Combine, Core Data, Core Bluetooth, Core Location, AVFoundation, App Clips, Concurrency, Xcode
+
+**Cross-Platform & Backend:**  
+Java, Kotlin, Python, Ruby, SQL, MySQL, Spring Boot
+
+**Tooling & DevOps:**  
+CI/CD Pipelines, Git, Fastlane, Automated Testing, Linting
+
+**Certifications:**  
+AWS Certified Solutions Architect – Associate (Nov 2020)
